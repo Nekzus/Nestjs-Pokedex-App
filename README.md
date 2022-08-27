@@ -51,7 +51,7 @@ http://localhost:3000/api/v2/seed
 
 # Notas
 
-Heroku redeplay sin cambios:
+Heroku redeploy sin cambios:
 
 ```
 git commit --allow-empty -m "Tigger Heroku deploy"
