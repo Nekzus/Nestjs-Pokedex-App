@@ -45,11 +45,15 @@ http://localhost:3000/api/v2/seed
 - MongoDB
 - NestJS
 
+## Endpoints Postman
+
+- [Postman endpoints](https://documenter.getpostman.com/view/16002323/VUxKS8cX)
+
 # Notas
 
 Heroku redeplay sin cambios:
-  
-  ```
-  git commit --allow-empty -m "Tigger Heroku deploy"
-  git push heroku <master|main>
-  ```
+
+```
+git commit --allow-empty -m "Tigger Heroku deploy"
+git push heroku <master|main>
+```
